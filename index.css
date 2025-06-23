@@ -269,7 +269,7 @@ h2, h3, h4, p {
 
 #last-word {
     max-width: 370px;
-    max-height: 400px;
+    max-height: 1000px;
     background: url("images/gift-wrap.png");
     background-size: cover;
     border: 6px solid white;
