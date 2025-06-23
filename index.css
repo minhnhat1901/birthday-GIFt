@@ -76,14 +76,14 @@ h2, h3, h4, p {
 #first-image-ever:hover, #first-image-ever.opened {
     background: url("images/First-image-ever-together.jpg");
     background-size: cover;
-    width: 600px;
+    width: 400px;
     transition-duration: 1200ms;
 }
 
 #first-online-study:hover, #first-online-study.opened {
     background: url("images/First-Zoom-study.jpg");
     background-size: cover;
-    width: 430px;
+    width: 400px;
     height: 450px;
     transition-duration: 1000ms;
 }
@@ -91,7 +91,7 @@ h2, h3, h4, p {
 #boring-course:hover, #boring-course.opened {
     background: url("images/Memo-of-boring-course.jpg");
     background-size: cover;
-    width: 450px;
+    width: 400px;
     height: 500px;
     transition-duration: 1000ms;
 }
@@ -99,7 +99,7 @@ h2, h3, h4, p {
 #final-study:hover, #final-study.opened {
     background: url("images/Study-at-Geisel.jpg");
     background-size: cover;
-    width: 350px;
+    width: 400px;
     height: 400px;
     transition-duration: 1200ms;
 }
@@ -107,7 +107,7 @@ h2, h3, h4, p {
 #first-LV-trip:hover, #first-LV-trip.opened {
     background: url("images/First-LV-together.jpg");
     background-size: cover;
-    width: 430px;
+    width: 400px;
     height: 550px;
     transition-duration: 1200ms;
 }
@@ -115,15 +115,15 @@ h2, h3, h4, p {
 #first-club:hover, #first-club.opened {
     background: url("images/First-club-together.jpg");
     background-size: cover;
-    width: 600px;
-    height: 600px;
+    width: 400px;
+    height: 400px;
     transition-duration: 1300ms;
 }
 
 #graduation:hover, #graduation.opened {
     background: url("images/Your-graduation.jpg");
     background-size: cover;
-    width: 430px;
+    width: 400px;
     height: 550px;
     transition-duration: 1200ms;
 }
@@ -131,7 +131,7 @@ h2, h3, h4, p {
 #mad-emotion:hover, #mad-emotion.opened {
     background: url("images/Anger-emotion.jpg");
     background-size: cover;
-    width: 450px;
+    width: 400px;
     height: 500px;
     transition-duration: 1000ms;
 }
@@ -139,28 +139,28 @@ h2, h3, h4, p {
 #cutie-cap1:hover, #cutie-cap1.opened {
     background: url("images/Cutie-capture.jpg");
     background-size: cover;
-    width: 350px;
+    width: 400px;
     transition-duration: 1000ms;
 }
 
 #cutie-cap2:hover, #cutie-cap2.opened {
     background: url("images/Cutie-capture2.jpg");
     background-size: cover;
-    width: 350px;
+    width: 400px;
     transition-duration: 1000ms;
 }
 
 #cutie-cap3:hover, #cutie-cap3.opened {
     background: url("images/Cutie-capture3.jpg");
     background-size: cover;
-    width: 500px;
+    width: 400px;
     transition-duration: 1000ms;
 }
 
 #cutie-cap4:hover, #cutie-cap4.opened {
     background: url("images/Cutie-capture4.jpg");
     background-size: cover;
-    width: 450px;
+    width: 400px;
     height: 550px;
     transition-duration: 1000ms;
 }
@@ -168,14 +168,14 @@ h2, h3, h4, p {
 #cutie-cap5:hover, #cutie-cap5.opened {
     background: url("images/Cutie-capture5.jpg");
     background-size: cover;
-    width: 350px;
+    width: 400px;
     transition-duration: 1000ms;
 }
 
 #cutie-cap6:hover, #cutie-cap6.opened {
     background: url("images/Cutie-capture6.PNG");
     background-size: cover;
-    width: 300px;
+    width: 400px;
     height: 600px;
     transition-duration: 1000ms;
 }
@@ -183,16 +183,16 @@ h2, h3, h4, p {
 #cutie-cap7:hover, #cutie-cap7.opened {
     background: url("images/Cutie-capture7.jpg");
     background-size: cover;
-    width: 600px;
-    height: 400px;
+    width: 400px;
+    height: 300px;
     transition-duration: 1000ms;
 }
 
 #cutie-cap8:hover, #cutie-cap8.opened {
     background: url("images/Cutie-capture8.jpg");
     background-size: cover;
-    width: 600px;
-    height: 400px;
+    width: 400px;
+    height: 300px;
     transition-duration: 1000ms;
 }
 
@@ -207,31 +207,31 @@ h2, h3, h4, p {
 #cutie-cap10:hover, #cutie-cap10.opened {
     background: url("images/Cutie-capture10.jpg");
     background-size: cover;
-    width: 600px;
-    height: 400px;
+    width: 400px;
+    height: 300px;
     transition-duration: 1000ms;
 }
 
 #cutie-cap11:hover, #cutie-cap11.opened {
     background: url("images/Cutie-capture11.jpg");
     background-size: cover;
-    width: 600px;
-    height: 400px;
+    width: 400px;
+    height: 300px;
     transition-duration: 1000ms;
 }
 
 #cutie-cap12:hover, #cutie-cap12.opened {
     background: url("images/Cutie-capture12.jpg");
     background-size: cover;
-    width: 600px;
-    height: 400px;
+    width: 400px;
+    height: 300px;
     transition-duration: 1000ms;
 }
 
 #cutie-cap13:hover, #cutie-cap13.opened {
     background: url("images/Cutie-capture13.jpg");
     background-size: cover;
-    width: 350px;
+    width: 400px;
     height: 500px;
     transition-duration: 1000ms;
 }
@@ -239,8 +239,8 @@ h2, h3, h4, p {
 #cutie-cap14:hover, #cutie-cap14.opened {
     background: url("images/Cutie-capture14.jpg");
     background-size: cover;
-    width: 500px;
-    height: 400px;
+    width: 400px;
+    height: 350px;
     transition-duration: 1000ms;
 }
 
