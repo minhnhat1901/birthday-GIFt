@@ -292,7 +292,7 @@ h2, h3, h4, p {
     min-width: 400px;
     min-height: 400px;
     max-width: 60vw;
-    max-height: 160vh;
+    max-height: 110vh;
     transition-duration: 2000ms;
 }
 
