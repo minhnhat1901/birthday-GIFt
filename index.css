@@ -27,6 +27,13 @@ h2, h3, h4, p {
     word-spacing: 6px;
 }
 
+#header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
 #my-love-ava {
     margin-left: 10px;
     width: 380px;
@@ -48,15 +55,14 @@ h2, h3, h4, p {
     border-radius: 5px;
 }
 
-#header {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+#woohoo-img {
+    margin: 30px 0;
+    border-radius: 10px;
+    width: 300px;
 }
 
 .gift-title {
-    margin: 100px 0 10px;
+    margin: 30px 0 10px;
     font-size: 28px;
 }
 
