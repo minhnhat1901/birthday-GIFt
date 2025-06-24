@@ -289,8 +289,8 @@ h2, h3, h4, p {
     opacity: 0;
     transition: opacity 0s;
     color: #333;
-    padding: 10px;
-    font-size: 1.5rem;
+    padding: 6px;
+    font-size: 1.3rem;
     margin: 0;
     text-shadow: 2px 2px 8px #fff;
     z-index: 2;
@@ -298,12 +298,9 @@ h2, h3, h4, p {
 }
 
 #last-word:hover, #last-word.opened {
-    width: auto;
+    width: 370px;
     height: auto;
     background: #ffffffd3;
-    min-width: 400px;
-    min-height: 400px;
-    max-width: 60vw;
     max-height: 1000vh;
     transition-duration: 2000ms;
 }
